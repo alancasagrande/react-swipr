@@ -11,7 +11,7 @@
     "react": "*"
   },
   "dependencies": {
-    "swipr": "^2.0.0"
+    "swipr": "git+https://github.com/alancasagrande/swipr.git"
   },
   "keywords": [
     "react",
